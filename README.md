@@ -1,2 +1,2 @@
-# glacia-json
-JSON file version of glacia code
+# glacia
+Demonstration for Eli of a API integration
